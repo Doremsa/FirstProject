@@ -1,0 +1,24 @@
+h1{
+    color:#34547A;
+    font-size: 48px;
+    font-family: Revalia;
+    margin-left: 350px;
+    margin-top: 86px;
+}
+a{
+    color:black;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    cursor: pointer;
+    margin-right: 42px;
+    
+}
+header{
+    width: 100%;
+    display: flex;
+}
+.header_menu{
+    margin-left: 398px;
+    margin-top: 108px;
+}
